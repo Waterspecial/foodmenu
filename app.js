@@ -119,7 +119,7 @@ function displayMenuItems (menuItems){
 
 
 function displayMenuButton(){
-  
+
   const categories = menu.reduce(function(values, item){
     if(!values.includes(item.category)){
       values.push(item.category);
