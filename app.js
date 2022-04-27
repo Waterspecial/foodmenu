@@ -151,5 +151,5 @@ filterBtn.forEach(function(btn){
       displayMenuItems(menuCategory);
     }
   });
-})
+});
 }
